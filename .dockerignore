@@ -1,0 +1,5 @@
+.env.app
+Dockerfile
+docker-compose.yml
+./README.md
+./workspace/*

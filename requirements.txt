@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+ipympl
+jupyter
+jupyterlab
+PyYAML
+Pillow
+h5py
+Keras
+Theano
+sacred
+tensorflow
+opencv-python
+pymongo
